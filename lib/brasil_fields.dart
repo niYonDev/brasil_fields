@@ -5,6 +5,7 @@ export 'src/formatters/cartao_bancario_input_formatter.dart';
 export 'src/formatters/cep_input_formatter.dart';
 export 'src/formatters/cnpj_input_formatter.dart';
 export 'src/formatters/cpf_input_formatter.dart';
+export 'src/formatters/rg_input_formatter.dart';
 export 'src/formatters/cartao_bancario_input_formatter.dart';
 export 'src/formatters/centavos_input_formatter.dart';
 export 'src/formatters/data_input_formatter.dart';
